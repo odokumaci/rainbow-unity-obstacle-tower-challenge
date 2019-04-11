@@ -6,14 +6,11 @@ The following figures show the average returns of the Rainbow RL algorithm on th
 
 Each step represents 250,000 frames for the training phase and 125,000 frames for the evaluation phase.
 
-Further information about the challenge: (https://www.aicrowd.com/challenges/unity-obstacle-tower-challenge) 
+Further information about the challenge: https://www.aicrowd.com/challenges/unity-obstacle-tower-challenge 
 
-Obstacle Tower paper: (https://arxiv.org/pdf/1902.01378.pdf)
+Obstacle Tower paper: https://arxiv.org/pdf/1902.01378.pdf
 
-Further information about Google dopamine: (https://github.com/google/dopamine)
+Further information about Google dopamine: https://github.com/google/dopamine
 
-Rainbow paper:(https://arxiv.org/pdf/1710.02298.pdf)
+Rainbow paper: https://arxiv.org/pdf/1710.02298.pdf
 
-Run [video_demo.ipynb](samples/video_demo.ipynb) to see an example of video segmentaion.
-
-Original [Mask-RCNN](https://github.com/matterport/Mask_RCNN) is used in object detection and scene segmentation.
